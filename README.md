@@ -1,3 +1,3 @@
 # Excel-Projects
 
-I have Made a file for all my analytics projects in Excel
+I have Made a file for all my analytic projects in Excel
